@@ -1,0 +1,164 @@
+[
+  {
+    "index": "1",
+    "nombre": "hyperx alloy origins",
+    "imagen": "https://cdn.shopify.com/s/files/1/0564/3612/9997/products/hyperx_alloy_origins_core_br_1_top_down_large.jpg?v=1663701487",
+    "categoria": "teclados",
+    "precio": 1000,
+    "descripcion": "El HyperX Alloy Origins es un teclado ultracompacto y resistente sin teclas con interruptores mecánicos HyperX personalizados diseñados para brindar a los jugadores la mejor combinación de estilo",
+    "stock": "10"
+  },
+  {
+    "index": "2",
+    "nombre": "hyperx alloy elite 2",
+    "imagen": "https://cdn.shopify.com/s/files/1/0564/3612/9997/products/hyperx_alloy_elite_2_us_1_top_down_renamed_4_large.jpg?v=1664073053",
+    "categoria": "teclados",
+    "precio": 1000,
+    "descripcion": " Con teclas multimedia dedicadas y una rueda de volumen grande, este teclado para juegos con todas las funciones está listo para todo, desde editar videos hasta mirar películas",
+    "stock": "10"
+  },
+  {
+    "index": "3",
+    "nombre": "hyperx alloy origin 60%",
+    "imagen": "https://cdn.shopify.com/s/files/1/0564/3612/9997/products/hyperx_alloy_origins_60_us_1_top_down_renamed_6_large.jpg?v=1666377243",
+    "categoria": "teclados",
+    "precio": 1000,
+    "descripcion": "El HyperX Alloy Origins™ 60 es un teclado sumamente portátil con un factor de forma del 60% que te brinda más espacio para los movimientos amplios del mouse.",
+    "stock": "10"
+  },
+  {
+    "index": " 4",
+    "nombre": " K65 PRO MINI RGB 60",
+    "imagen": "https://res.cloudinary.com/corsair-pwa/image/upload/c_pad,q_auto,h_300,w_300/products/Gaming-Keyboards/CH-9189114-NA/Gallery/K70_PRO_MINI_WIRELESS_WHITE_PBT_01.webp?w=1920&q=75",
+    "categoria": "teclados",
+    "precio": 1000,
+    "descripcion": "El teclado mecánico para juegos CORSAIR K65 RGB MINI 60% combina rendimiento de alto nivel con portabilidad, incluye la tecnología de hiperprocesamiento AXON",
+    "stock": "10"
+  },
+  {
+    "index": "5",
+    "nombre": "K70 RGB PRO",
+    "imagen": "https://res.cloudinary.com/corsair-pwa/image/upload/c_pad,q_auto,h_300,w_300/products/Gaming-Keyboards/CH-910941A-NA/Gallery/K70_PRO_OPX_PBT_01.webp?w=1920&q=75",
+    "categoria": "teclados",
+    "precio": 1000,
+    "descripcion": "El K70 RGB PRO conserva los elementos icónicos de la galardonada serie K70 con una estructura de aluminio duradera, interruptores de teclas mecánicos CHERRY MX",
+    "stock": "10"
+  },
+  {
+    "index": "6",
+    "nombre": "K70 PRO MINI WIRELESS 60%",
+    "imagen": "https://res.cloudinary.com/corsair-pwa/image/upload/c_pad,q_auto,h_300,w_300/products/Gaming-Keyboards/CH-9189014-NA/Gallery/K70_PRO_MINI_WIRELESS_PBT_01.webp?w=1920&q=75",
+    "categoria": "teclados",
+    "precio": 1000,
+    "descripcion": "Conozca el K70 PRO MINI WIRELESS: un teclado para juegos 60 % RGB de alto rendimiento que es fácilmente personalizable, con la libertad que ofrece la conexión inalámbrica para disfrutar de una experiencia de juego de primer nivel en cualquier configuración",
+    "stock": "10"
+  },
+  {
+    "index": " 7",
+    "nombre": " hyperx pulsefire core",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_pulsefire_core_2_angled_back_900x.jpg?v=1662677685",
+    "categoria": "ratones",
+    "precio": 500,
+    "descripcion": "El HyperX Pulsefire Core™ ofrece lo esencial para los jugadores que buscan un mouse para juegos RGB con cable, sólido y cómodo",
+    "stock": "10"
+  },
+  {
+    "index": "8",
+    "nombre": "hyperx pulsefire haste 2",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_pulsefire_haste_2_wireless_black_angle_2_900x.jpg?v=1680540395",
+    "categoria": "ratones",
+    "precio": 500,
+    "descripcion": "HyperX Pulsefire Haste 2 está diseñado para jugadores que no pueden permitirse el lujo de perder ni un milisegundo",
+    "stock": "10"
+  },
+  {
+    "index": "9",
+    "nombre": "hyperx pulsefire haste",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_pulsefire_haste_wireless_black_1_top_down_900x.jpg?v=1662449663",
+    "categoria": "ratones",
+    "precio": 500,
+    "descripcion": "HyperX Pulsefire Haste está diseñado para jugadores de élite que buscan ganar cada fracción de segundo posible en su búsqueda por ser los mejores.",
+    "stock": "10"
+  },
+  {
+    "index": "10 ",
+    "nombre": "M65 RGB ELITE ",
+    "imagen": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Mice/CH-9309011-EU/Gallery/M65_RGB_ELITE_BLK_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "categoria": "ratones",
+    "precio": 500,
+    "descripcion": "18 000 ppp nativos ajustables en pasos de resolución de 1 ppp que le ofrecen una personalización completa de la sensibilidad y un rastreo ultrapreciso",
+    "stock": "10"
+  },
+  {
+    "index": "11",
+    "nombre": "IRONCLAW RGB",
+    "imagen": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_300,w_300/products/Gaming-Mice/CH-9317011-EU/Gallery/IRONCLAW_RGB_WIRELESS_01.webp?w=1920&q=75",
+    "categoria": "ratones",
+    "precio": 500,
+    "descripcion": "IRONCLAW RGB ofrece la comodidad y precisión que necesito, sin cables que limiten mi movimiento y las reacciones de décimas de segundo en el fragor de la batalla.",
+    "stock": "10"
+  },
+  {
+    "index": "12",
+    "nombre": "KATAR ELITE ",
+    "imagen": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Mice/base-katar-elite-wireless-config/Gallery/KATAR_ELITE_WIRELESS_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "categoria": "ratones",
+    "precio": 500,
+    "descripcion": "Con un peso de solo 69 g, el ratón para juegos CORSAIR KATAR ELITE WIRELESS ofrece un rendimiento y una agilidad increíbles en un diseño compacto ideal para agarrarlo con los dedos o con la punta de estos.",
+    "stock": "10"
+  },
+  {
+    "index": "13",
+    "nombre": "hyperx cloud",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_cloud_stinger_pink_05_rotate_900x.jpg?v=1662420667",
+    "categoria": "auriculares",
+    "precio": 1500,
+    "descripcion": "HyperX Cloud son los auriculares ideales para jugadores que buscan comodidad ligera, calidad de sonido superior y mayor comodidad. ",
+    "stock": "10"
+  },
+  {
+    "index": "14",
+    "nombre": "hyperx cloud alpha",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_cloud_alpha_black_4_main_detachable_900x.jpg?v=1662420668",
+    "categoria": "auriculares",
+    "precio": 1500,
+    "descripcion": "Mejora tu experiencia de juego con un sonido más limpio y suave. El sistema de controlador de doble cámara del HyperX™ Cloud Alpha separa los graves de los medios y los agudos",
+    "stock": "10"
+  },
+  {
+    "index": "15",
+    "nombre": "CORSAIR HS80",
+    "imagen": "https://res.cloudinary.com/corsair-pwa/image/upload/c_pad,q_auto,h_300,w_300/products/Accessories-Parts/CA-9011307-WW/Gallery/CA-9011307-WW_01.webp?w=1200&q=75",
+    "categoria": "auriculares",
+    "precio": 1500,
+    "descripcion": "Los auriculares para juegos CORSAIR HS80 RGB se conectan mediante la tecnología hiperrápida SLIPSTREAM y ofrecen un sonido increíblemente detallado a través de los transductores de audio de neodimio de 50 mm",
+    "stock": "10"
+  },
+  {
+    "index": "16",
+    "nombre": "hyperx cloud core",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_cloud_core_dts_2_side_900x.jpg?v=1662449658",
+    "categoria": "auriculares",
+    "precio": 1500,
+    "descripcion": "HyperX Cloud Core incluye 2 años de DTS® Headphone:X®[1] Spatial Audio para una inmersión mejorada y señales de audio posicionales",
+    "stock": "10"
+  },
+  {
+    "index": "17",
+    "nombre": "CORSAIR VOID",
+    "imagen": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Headsets/CA-9011201-EU/Gallery/VOID_RGB_ELITE_WIRELESS_CARBON_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "categoria": "auriculares",
+    "precio": 1500,
+    "descripcion": "Sumérjase en la acción con los CORSAIR VOID RGB ELITE Wireless, con transductores de audio de neodimio de 50 mm de ajuste personalizado, un cómodo tejido de rejilla de microfibra con almohadillas de espuma con memoria y una conexión inalámbrica de 2,4 GHz.",
+    "stock": "10"
+  },
+  {
+    "index": "18",
+    "nombre": "Cloud Stinger 2",
+    "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_cloud_stinger_2_core_black_ps_3_front_900x.jpg?v=1665763174",
+    "categoria": "auriculares",
+    "precio": 1500,
+    "descripcion": "Los HyperX Cloud Stinger™ 2 Core son los auriculares básicos esenciales para PlayStation a un precio asequible. Cloud Stinger Core 2 ofrece un sonido excelente y envolvente, comodidad y conveniencia",
+    "stock": "10"
+  }
+]

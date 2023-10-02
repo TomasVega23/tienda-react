@@ -1,9 +1,10 @@
+import { Link } from "react-router-dom";
 
 const Brand = () => {
   return (
-    <a className="navbar-brand link-light" href="#">
+    <Link className="navbar-brand link-light" as={"active"} to={"/"}>
     TecnoFamily
-  </a>
+  </Link>
   )
 }
 

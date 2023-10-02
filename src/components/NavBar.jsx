@@ -1,5 +1,6 @@
 import Brand from "./Brand";
 import CartWidget from "./CartWidget";
+import {NavLink} from "react-router-dom";
 
 const NavBar = () => {
   return (
@@ -24,19 +25,19 @@ const NavBar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav navbar-nav-hover mx-auto">
               <li className="nav-item px-3">
-              <a className="nav-link link-light " href="#">
-                  Home
-                </a>
+              <NavLink className="nav-link link-light" as={"active"} to={"/category/ratones"}>
+                Ratones
+              </NavLink>
               </li>
               <li className="nav-item px-3">
-              <a className="nav-link link-light" href="#">
-                  Productos
-                </a>
+              <NavLink className="nav-link link-light" as={"active"} to={"/category/auriculares"}>
+              Auriculares
+              </NavLink>
               </li>
               <li className="nav-item px-3">
-              <a className="nav-link link-light" href="#">
-                  Contactos
-                </a>
+              <NavLink className="nav-link link-light" as={"active"} to={"/category/teclados"}>
+                Teclados
+              </NavLink>
               </li>
             </ul>
             <CartWidget />
